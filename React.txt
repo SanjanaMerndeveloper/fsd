@@ -1,0 +1,36 @@
+React.js is library(loosely action).
+reactjs is the library of js.
+Document is the object in js.
+Angular is frame work.(military action) or fixed.
+Library is the collection predefine function.
+Framework is collection of library.
+react is external library(
+React.js:- state management , component based programming,SPA(single page application)
+CDN(link):-content deliver network.(jo bhi sare function logic h react ke cdn me aate h) 
+reactDOM:-(javascript ke code ko DOM)append 
+if we are using reacjs then we can write html code in js file an vice versa.
+when we create element in react we have to give three parameter(element(which will be create),attribute,and text(which we have to print).
+reander means showcase something into screen.
+render is similar to append function
+babel is the online compiler.
+react vode ko chunks me break karta h
+lts :-long term supports
+current:-,eas bugs are solving.
+command// npx create-react-app folder_name(react_begin)
+for update nodejs:- npm update npm -g.
+nodejs:- nodejs is made with c++ compiler.
+nodejs:-its runtime environmet for js.
+react can not execute without nodejs environment.
+npm:- node package module.
+np start for starting the terinal
+control c for terminate the window.
+jab bhi multiple element ko execute karna h toh ek hi container me wrap karna padega(ek baar me ek hi render karta h).
+ek container me sara element hoga.
+event make dynamic our react.
+whenever we will use javascript in react js we have to use curly braces{}.
+//map is basic loop(for array it always demand for call back function)
+for starting th terminal we use cd folder_name npm start.
+there are two component in react class component and function component.
+if we wnt to show some data on screen then wrap in div container and return it it will on screen.
+react mean smanage the state.
+rcfe
